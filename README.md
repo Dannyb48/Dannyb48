@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Bash | PowerShell
-- 🛢 &nbsp; Jenkins
+- 💻 &nbsp; Python | Ansible | Java | Bash 
+- 🛢 &nbsp; Jenkins | Github Actions | GitLab CI Runner
 - 🔧 &nbsp; IntelliJ | Git
 
 <br>
