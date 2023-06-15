@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; B.A in Business Administration concentration in Manegement Information Systems.
 - 🎓 &nbsp; M.S.E in Software Engineering.
-- 💼 &nbsp; Senior Software Engineer in Test, Red Hat.
+- 💼 &nbsp; Associate Manager, Red Hat.
 - 🌱 &nbsp; Enthusiast with Tooling, Automation & Productivity.
 
 <h3>🛠 Tech Stack</h3>
